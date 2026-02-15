@@ -38,13 +38,24 @@ An AI-powered career development platform that analyzes your skills, identifies 
    ```bash
    git clone https://github.com/basilbaby3007-cpu/personal-career-navigator.git
    cd personal-career-navigator
-# Windows
+2.Create and activate virtual environment
+   # Windows
 python -m venv .venv
 .venv\Scripts\activate
 
 # Mac/Linux
 python3 -m venv .venv
-source .venv/bin/activate   
+source .venv/bin/activate
+3.Install dependencies
 pip install -r requirements.txt
+4.Run the backend server
 cd backend
 python app.py
+
+The API will start at http://localhost:8888
+
+5.Open the frontend
+
+Open frontend/index.html in your browser
+
+Or use Live Server in VS Code
