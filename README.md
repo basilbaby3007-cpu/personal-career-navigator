@@ -44,3 +44,7 @@ An AI-powered career development platform that analyzes your skills, identifies 
    # Mac/Linux
    python3 -m venv .venv
    source .venv/bin/activate
+   3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   python main.py
