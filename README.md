@@ -48,3 +48,7 @@ An AI-powered career development platform that analyzes your skills, identifies 
    ```bash
    pip install -r requirements.txt
    python main.py
+
+   4. **Run the backend server**
+   ```bash
+   python main.py
