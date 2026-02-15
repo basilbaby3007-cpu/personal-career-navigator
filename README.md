@@ -90,11 +90,13 @@ An AI-powered career development platform that analyzes your skills, identifies 
 
 ```
 personal-career-navigator/
-├── main.py              # FastAPI backend
-├── index.html           # Frontend UI
-├── requirements.txt     # Python dependencies
-├── .gitignore          # Git ignore rules
-└── README.md           # This file
+├── backend/              # FastAPI backend
+│   └── main.py          # Main application
+├── frontend/             # HTML/CSS/JS frontend
+│   └── index.html       # Main interface
+├── .gitignore           # Git ignore rules
+├── README.md            # This file
+└── requirements.txt     # Python dependencies
 ```
 
 ## 🤝 Contributing
@@ -119,3 +121,4 @@ Project Link: [https://github.com/basilbaby3007-cpu/personal-career-navigator](h
 - FastAPI documentation
 - Font Awesome for icons
 - Google Fonts for Space Grotesk
+
