@@ -45,3 +45,56 @@ source .venv/bin/activate
 pip install -r requirements.txt
 cd backend
 python app.py
+
+The API will start at `http://localhost:8888`
+
+5. **Open the frontend**
+   - Open `frontend/index.html` in your browser
+   - Or use Live Server in VS Code
+
+## 🎯 How It Works
+
+1. **Upload your resume** or paste your skills
+2. **Select your dream role** from 6 career paths
+3. **Set your weekly hours** (5-40 hours)
+4. **Get instant analysis**:
+   - Skills detected from your resume
+   - Gap analysis (required vs preferred)
+   - 30-day personalized roadmap
+5. **Track progress** by checking off daily tasks
+6. **Export your plan** for offline use
+
+## 🧠 Supported Career Roles
+
+- 🤖 AI/ML Engineer
+- 💻 Full Stack Architect
+- 📊 Data Scientist
+- 🚀 DevOps Engineer
+- 🔒 Security Analyst
+- 📱 Product Lead
+
+## 📁 Project Structure
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to:
+- 🐛 Report bugs
+- 💡 Suggest features
+- 🔧 Submit pull requests
+
+## 📝 License
+
+This project is open source and available under the MIT License.
+
+## 📧 Contact
+
+Basil Baby - basilbaby3007@gmail.com
+
+Project Link: [https://github.com/basilbaby3007-cpu/personal-career-navigator](https://github.com/basilbaby3007-cpu/personal-career-navigator)
+
+## 🙏 Acknowledgments
+
+- FastAPI documentation
+- Font Awesome for icons
+- Google Fonts for Space Grotesk
+
