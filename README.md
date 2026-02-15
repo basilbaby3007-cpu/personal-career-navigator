@@ -35,3 +35,12 @@ An AI-powered career development platform that analyzes your skills, identifies 
    ```bash
    git clone https://github.com/basilbaby3007-cpu/personal-career-navigator.git
    cd personal-career-navigator
+   2. **Create and activate virtual environment**
+   ```bash
+   # Windows
+   python -m venv .venv
+   .venv\Scripts\activate
+
+   # Mac/Linux
+   python3 -m venv .venv
+   source .venv/bin/activate
